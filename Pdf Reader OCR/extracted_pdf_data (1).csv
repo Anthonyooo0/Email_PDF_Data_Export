@@ -1,0 +1,5 @@
+Record_ID,Name_Client,Type_Department,Contact_Amount,Status_Location,Date_Info,Source_File,Date_Processed
+cool,John,Smith,Sales,555-0123,john@company.com,simple_contacts.pdf,2025-07-12 15:51:45
+C002,Sarah,Johnson,Marketing,555-0124,sarah@company.com,simple_contacts.pdf,2025-07-12 15:51:45
+C003,Mike,Davis,Engineering,555-0125,mike@company.com,simple_contacts.pdf,2025-07-12 15:51:45
+C004,Lisa,Wilson,HR,555-0126,lisa@company.com,simple_contacts.pdf,2025-07-12 15:51:45
