@@ -1,4 +1,4 @@
-# Email PDF to CSV Automation
+# Email PDF to CSV Automations
 
 This Python automation downloads PDF attachments from emails, processes them using OCR to extract table data, and exports the results to CSV format. Perfect for processing business documents like contact lists, invoices, reports, and other tabular data in PDF format.
 
